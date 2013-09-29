@@ -1,0 +1,7 @@
+<strong>Page Array not found</strong><br><br><strong>Fatal error</strong>:  Uncaught exception 'KurogoPageNotFoundException' with message 'Page Array not found' in /var/www/Kurogo-Mobile-Web/lib/WebModule.php:1517
+Stack trace:
+#0 /var/www/Kurogo-Mobile-Web/lib/WebModule.php(1702): loadPageConfig()
+#1 /var/www/Kurogo-Mobile-Web/lib/WebModule.php(1990): setPageVariables()
+#2 /var/www/Kurogo-Mobile-Web/www/index.php(323): displayPage()
+#3 {main}
+  thrown in <strong>/var/www/Kurogo-Mobile-Web/lib/WebModule.php</strong> on line <strong>1517</strong>

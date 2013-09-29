@@ -1,0 +1,23 @@
+[Sat 09 28 20:35:25 2013]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Sat 09 28 20:43:31 2013]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Sat 09 28 20:45:46 2013]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Sat 09 28 20:49:19 2013]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Sat 09 28 20:49:23 2013]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Sat 09 28 20:49:31 2013]	url_retriever:Warning	URLDataRetriever->retrieveResponse@508	/home/pane?id=social&ajax=1	Gone for https://api.twitter.com/1/statuses/user_timeline.json?screen_name=kurogofwk&trim_user=1
+[Sat 09 28 20:54:48 2013]	kurogo:Warning	_404@113	/common/images/homelink-wide.png	URL /common/images/homelink-wide.png not found
+[Sat 09 28 21:04:16 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Sat 09 28 21:12:46 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Sat 09 28 21:15:53 2013]	exception:Alert	WebModule->loadPageConfig@1517	/emergency/Array	A KurogoPageNotFoundException has occured: Page Array not found
+[Sat 09 28 21:26:12 2013]	kurogo:Warning	_404@113	/common/images/homelink-wide.png	URL /common/images/homelink-wide.png not found
+[Sat 09 28 21:26:47 2013]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Sat 09 28 21:26:47 2013]	maps:Warning	MapWebModule->getCurrentFeed@246	/map/	Warning: unable to find feed data for feed 
+[Sat 09 28 21:27:06 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Sat 09 28 21:28:01 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Sat 09 28 21:32:36 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Sat 09 28 21:36:26 2013]	kurogo:Warning	_404@113	/common/images/homelink.png	URL /common/images/homelink.png not found
+[Sat 09 28 21:36:34 2013]	kurogo:Warning	_404@113	/common/images/homelink.png	URL /common/images/homelink.png not found
+[Sat 09 28 21:37:50 2013]	kurogo:Warning	_404@113	/common/images/homelink.png	URL /common/images/homelink.png not found
+[Sat 09 28 22:01:20 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Sat 09 28 22:20:32 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Sat 09 28 22:43:26 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Sat 09 28 22:50:43 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed

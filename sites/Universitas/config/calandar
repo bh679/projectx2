@@ -1,0 +1,17 @@
+[events]
+
+TITLE              = "Events"
+
+BASE_URL           = "https://www.google.com/calendar/ical/ib188cg3oanivn0vjuffvrdkig%40group.calendar.google.com/private-98de80b77dc3bddba13c9ef5bb219560/basic.ics";
+FILTER_CATEGORY_BY_DAY = 0
+;
+PARSER_CLASS      = "ICSDataParser"
+;
+EVENT_CLASS       = "ICalEvent"
+
+
+[holidays]
+
+TITLE              = "Holidays"
+
+BASE_URL           = "https://www.google.com/calendar/ical/ib188cg3oanivn0vjuffvrdkig%40group.calendar.google.com/private-98de80b77dc3bddba13c9ef5bb219560/basic.ics"
