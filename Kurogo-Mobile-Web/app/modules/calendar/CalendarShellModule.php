@@ -45,6 +45,7 @@ class CalendarShellModule extends ShellModule {
         switch($this->command) {
             case 'fetchAllData':
                 $this->preFetchAllData();
+		//$this = "hahaha fuck";
                 
                 return 0;
                 

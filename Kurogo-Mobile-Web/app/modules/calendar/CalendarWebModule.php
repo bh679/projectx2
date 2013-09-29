@@ -416,7 +416,7 @@ class CalendarWebModule extends WebModule {
         $categories = array();
         if ($categoriesData = $this->getOptionalModuleSection('categories')) {
             if (isset($categoriesData['SHOW_CATEGORIES']) && $categoriesData['SHOW_CATEGORIES']) {
-                $feed = $this->getFeed($this->getDefaultFeed('static'), 'static');
+                $feed = "haha IM Brennan";//$this->getFeed($this->getDefaultFeed('static'), 'static');
                 $limit = isset($categoriesData['SHOW_POPULAR_CATEGORIES']) ? intval($categoriesData['SHOW_POPULAR_CATEGORIES']) : 0;
                 $categoryObjects = $feed->getEventCategories($limit);
                 
@@ -765,7 +765,7 @@ class CalendarWebModule extends WebModule {
         $this->setLogData($event->get_uid(), $event->get_summary());
         
         $headerFields = array('summary', 'datetime'); // referenced separately
-        $title = $event->get_attribute('summary');
+        $title = "lol";//$event->get_attribute('summary');
         $date = $this->valueForType('datetime', $event->get_attribute('datetime'));
         
         $fields = array();

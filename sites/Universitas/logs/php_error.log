@@ -37,3 +37,5 @@
 [28-Sep-2013 21:12:51 America/New_York] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 9: parser error : Opening and ending tag mismatch: link line 9 and lin in /var/www/Kurogo-Mobile-Web/lib/DataParser/SimpleXMLDataParser.php on line 26
 [28-Sep-2013 21:12:51 America/New_York] PHP Warning:  SimpleXMLElement::__construct():     &lt;link&gt;http://www.criticalarc.com/&lt;/lin&gt; in /var/www/Kurogo-Mobile-Web/lib/DataParser/SimpleXMLDataParser.php on line 26
 [28-Sep-2013 21:12:51 America/New_York] PHP Warning:  SimpleXMLElement::__construct():                                            ^ in /var/www/Kurogo-Mobile-Web/lib/DataParser/SimpleXMLDataParser.php on line 26
+[29-Sep-2013 00:04:19 America/New_York] PHP Parse error:  syntax error, unexpected 'calendar' (T_STRING) in /var/www/Kurogo-Mobile-Web/app/modules/calendar/CalendarWebModule.php on line 644
+[29-Sep-2013 00:19:17 America/New_York] PHP Parse error:  syntax error, unexpected '$feed' (T_VARIABLE) in /var/www/Kurogo-Mobile-Web/app/modules/calendar/CalendarWebModule.php on line 601
