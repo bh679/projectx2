@@ -21,3 +21,5 @@
 [Sat 09 28 22:20:32 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
 [Sat 09 28 22:43:26 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
 [Sat 09 28 22:50:43 2013]	exception:Alert	include@19	/people/	A KurogoException has occured: LDAP PHP extension is not installed
+[Sat 09 28 23:46:29 2013]	kurogo:Warning	_404@113	/common/images/homelink-wide.png	URL /common/images/homelink-wide.png not found
+[Sat 09 28 23:46:29 2013]	kurogo:Warning	_404@113	/common/images/homelink-wide.png	URL /common/images/homelink-wide.png not found
